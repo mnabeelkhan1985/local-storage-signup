@@ -1,0 +1,5 @@
+.main{margin-left:10%;margin-top:10%;margin-right:20%;border:10px solid rgb(86, 70, 180);padding:50px;border-radius:20px;background-color:yellowgreen}
+input{margin-left:20%;height:20px;border-radius: 5px;}
+span{font-size: larger;margin-left:10%;font-weight: bolder;color:rgb(63, 13, 109);text-decoration-line: underline;}
+h1{margin-left:40%;text-decoration-line: underline;color:blue}
+button{margin-left:45%;height:30px;width:100px;box-shadow:1px 1px 2px 2px rgb(160, 162, 197);border-radius:5px;font-weight:bolder;}
